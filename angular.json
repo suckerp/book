@@ -26,9 +26,7 @@
               "src/favicon.ico",
               "src/assets"
             ],
-            "styles": [
-              "./node_modules/semantic-ui-css/semantic.css"
-            ],
+            "styles": [],
             "scripts": []
           },
           "configurations": {

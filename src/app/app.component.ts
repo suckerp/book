@@ -3,7 +3,7 @@ import { Component } from '@angular/core';
 @Component({
   selector: 'bm-root',
   templateUrl: './app.component.html',
-  styleUrls: ['../../node_modules/semantic-ui-css/semantic.css']
+  styleUrls: ['../../node_modules/semantic-ui-css/semantic.min.css']
 })
 export class AppComponent {
 }
